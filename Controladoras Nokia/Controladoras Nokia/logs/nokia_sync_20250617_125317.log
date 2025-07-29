@@ -1,0 +1,3 @@
+2025-06-17 12:53:17 - root - INFO - Sistema de logging configurado - Archivo: logs\nokia_sync_20250617_125317.log
+2025-06-17 12:54:23 - ui.main_window - ERROR - Error en sincronización: No se encontraron equipos para el grupo: TODOS
+2025-06-17 12:54:31 - ui.main_window - ERROR - Error en sincronización: No se encontraron equipos para el grupo: TODOS

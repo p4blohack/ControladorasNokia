@@ -1,0 +1,1448 @@
+
+================================================================================
+COMANDOS DE MANTENIMIENTO - AAC-BOG.ARANDA-M5 (10.50.1.179)
+Fecha: 2025-07-15 14:11:57
+================================================================================
+
+
+================================================================================
+COMANDOS DE MANTENIMIENTO - AAG-BOG.VENECIA-M4 (10.50.64.32)
+Fecha: 2025-07-15 14:11:57
+================================================================================
+
+
+================================================================================
+COMANDOS DE MANTENIMIENTO - AAG-MED.OCCEL-M3 (10.50.66.240)
+Fecha: 2025-07-15 14:11:57
+================================================================================
+
+--- COMANDO: admin save ---
+admin save 
+Writing configuration to cf3:\AAG-BOG.VENECIA-M4.cfg
+Saving configuration ...   ...   ...   ...   ... OK
+Syncing Configuration on standby CPM
+    primary config   : cf3:\AAG-BOG.VENECIA-M4.cfg ...   ... OK
+    primary config   : cf3:\AAG-BOG.VENECIA-M4.ndx ... OK
+Completed.
+*A:AAG-BOG.VENECIA-M4# 
+----------------------------------------
+
+--- COMANDO: admin save ---
+admin save 
+Writing configuration to cf3:\AAG-MED.OCCEL-M3.cfg
+Saving configuration ...   ...   ...   ...   ...   ... OK
+Syncing Configuration on standby CPM
+    primary config   : cf3:\AAG-MED.OCCEL-M3.cfg ... OK
+    primary config   : cf3:\AAG-MED.OCCEL-M3.ndx ... OK
+    SSH key file     : cf3:\ssh\sshV2SvrPubDSAkeyFile ... OK
+    SSH key file     : cf3:\ssh\sshV2SvrPrivDSAkeyFile ... OK
+    SSH key file     : cf3:\ssh\sshV2SvrPubRSAkeyFile ... OK
+    SSH key file     : cf3:\ssh\sshV2SvrPrivRSAkeyFile ... OK
+    SSH key file     : cf3:\ssh\SSHClientHostFile ... OK
+Completed.
+A:AAG-MED.OCCEL-M3# 
+----------------------------------------
+
+--- COMANDO: admin save ---
+admin save 
+Writing configuration to cf3:\config.cfg
+Saving configuration ...   ...   ...   ...   ...   ... OK
+Syncing configuration:
+    boot option file : cf3:\bof.cfg ... OK
+    primary config   : cf3:\config.cfg ...   ... OK
+    primary config   : cf3:\config.ndx ... OK
+Completed.
+*A:AAC-BOG.ARANDA-M5# 
+----------------------------------------
+
+
+================================================================================
+COMANDOS DE MANTENIMIENTO - CAL-DEC-AN01 (10.50.0.178)
+Fecha: 2025-07-15 14:12:07
+================================================================================
+
+
+================================================================================
+COMANDOS DE MANTENIMIENTO - BAR-CUM-SN01 (10.50.2.4)
+Fecha: 2025-07-15 14:12:07
+================================================================================
+
+
+================================================================================
+COMANDOS DE MANTENIMIENTO - BUC-BBO-SN01 (10.50.2.66)
+Fecha: 2025-07-15 14:12:07
+================================================================================
+
+
+================================================================================
+COMANDOS DE MANTENIMIENTO - AAG-TRIARA-C1 (10.50.1.103)
+Fecha: 2025-07-15 14:12:09
+================================================================================
+
+
+================================================================================
+COMANDOS DE MANTENIMIENTO - AAG-MASTER-C1 (10.50.1.105)
+Fecha: 2025-07-15 14:12:09
+================================================================================
+
+
+================================================================================
+COMANDOS DE MANTENIMIENTO - PER-CCM-SN01 (10.50.2.194)
+Fecha: 2025-07-15 14:12:10
+================================================================================
+
+--- COMANDO: admin save ---
+admin save 
+Writing configuration to cf3:\CAL-DEC-AN01.cfg
+Saving configuration ...   ... OK
+Syncing configuration:
+    boot option file : cf3:\bof.cfg ... OK
+    primary config   : cf3:\CAL-DEC-AN01.cfg ... OK
+    primary config   : cf3:\CAL-DEC-AN01.ndx ... OK
+Completed.
+A:CAL-DEC-AN01# 
+----------------------------------------
+
+--- COMANDO: admin save ---
+admin save 
+Writing configuration to cf3:\config.cfg
+Saving configuration ...   ... OK
+Syncing configuration:
+    boot option file : cf3:\bof.cfg ... OK
+    primary config   : cf3:\config.cfg ... OK
+    primary config   : cf3:\config.ndx ... OK
+Completed.
+A:BAR-CUM-SN01# 
+----------------------------------------
+
+--- COMANDO: admin save ---
+admin save 
+Writing configuration to cf3:\config.cfg
+Saving configuration ...   ...   ... OK
+Syncing configuration:
+    boot option file : cf3:\bof.cfg ... OK
+    primary config   : cf3:\config.cfg ... OK
+    primary config   : cf3:\config.ndx ... OK
+Completed.
+A:BUC-BBO-SN01# 
+----------------------------------------
+
+
+================================================================================
+COMANDOS DE MANTENIMIENTO - AAG-DORADO-C1 (10.50.1.106)
+Fecha: 2025-07-15 14:12:12
+================================================================================
+
+--- COMANDO: admin save ---
+admin save 
+Writing configuration to cf3:\PER-CCM-SN01.cfg
+Saving configuration ...   ...   ... OK
+Syncing configuration:
+    boot option file : cf3:\bof.cfg ... OK
+    primary config   : cf3:\PER-CCM-SN01.cfg ... OK
+    primary config   : cf3:\PER-CCM-SN01.ndx ... OK
+Completed.
+A:PER-CCM-SN01# 
+----------------------------------------
+
+--- COMANDO: admin save ---
+admin save 
+Writing configuration to cf3:\AAG-TRIARA-C1.cfg
+Saving configuration ...   ...   ...   ...   ... OK
+Syncing Configuration on standby CPM
+    primary config   : cf3:\AAG-TRIARA-C1.cfg ...   ... OK
+    primary config   : cf3:\AAG-TRIARA-C1.ndx ... OK
+Completed.
+B:AAG-TRIARA-C1# 
+----------------------------------------
+
+--- COMANDO: admin save index detail ---
+admin save index detail 
+Writing configuration to cf3:\CAL-DEC-AN01.cfg
+Saving configuration ...   ...   ... OK
+Syncing configuration:
+    boot option file : cf3:\bof.cfg ... OK
+    primary config   : cf3:\CAL-DEC-AN01.cfg ...   ... OK
+    primary config   : cf3:\CAL-DEC-AN01.ndx ... OK
+Completed.
+A:CAL-DEC-AN01# 
+----------------------------------------
+
+--- COMANDO: admin save index detail ---
+admin save index detail 
+Writing configuration to cf3:\config.cfg
+Saving configuration ...   ...   ... OK
+Syncing configuration:
+    boot option file : cf3:\bof.cfg ... OK
+    primary config   : cf3:\config.cfg ...   ... OK
+    primary config   : cf3:\config.ndx ... OK
+Completed.
+A:BAR-CUM-SN01# 
+----------------------------------------
+
+--- COMANDO: admin save index detail ---
+admin save index detail 
+Writing configuration to cf3:\config.cfg
+Saving configuration ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+Syncing configuration:
+    boot option file : cf3:\bof.cfg ... OK
+    primary config   : cf3:\config.cfg ...   ...   ... OK
+    primary config   : cf3:\config.ndx ... OK
+Completed.
+*A:AAC-BOG.ARANDA-M5# 
+----------------------------------------
+
+--- COMANDO: admin save index detail ---
+admin save index detail 
+Writing configuration to cf3:\config.cfg
+Saving configuration ...   ...   ...   ... OK
+Syncing configuration:
+    boot option file : cf3:\bof.cfg ... OK
+    primary config   : cf3:\config.cfg ...   ... OK
+    primary config   : cf3:\config.ndx ... OK
+Completed.
+A:BUC-BBO-SN01# 
+----------------------------------------
+
+--- COMANDO: admin save ---
+admin save 
+Writing configuration to cf3:\AAG-DORADO-C1.cfg
+Saving configuration ...   ...   ...   ...   ...   ...   ... OK
+Syncing Configuration on standby CPM
+    primary config   : cf3:\AAG-DORADO-C1.cfg ...   ... OK
+    primary config   : cf3:\AAG-DORADO-C1.ndx ... OK
+Completed.
+A:AAG-DORADO-C1# 
+----------------------------------------
+
+--- COMANDO: admin redundancy synchronize config ---
+admin redundancy synchronize config 
+Syncing configuration:
+    boot option file : cf3:\bof.cfg ... OK
+    primary config   : cf3:\CAL-DEC-AN01.cfg ...   ... OK
+    primary config   : cf3:\CAL-DEC-AN01.ndx ... OK
+Completed.
+A:CAL-DEC-AN01# 
+----------------------------------------
+
+--- COMANDO: admin redundancy synchronize config ---
+admin redundancy synchronize config 
+Syncing configuration:
+    boot option file : cf3:\bof.cfg ... OK
+    primary config   : cf3:\config.cfg ...   ... OK
+    primary config   : cf3:\config.ndx ... OK
+Completed.
+A:BAR-CUM-SN01# 
+----------------------------------------
+
+--- COMANDO: admin save index detail ---
+admin save index detail 
+Writing configuration to cf3:\PER-CCM-SN01.cfg
+Saving configuration ...   ...   ...   ..OK
+Syncing configuration:
+    boot option file : cf3:\bof.cfg ... OK
+    primary config   : cf3:\PER-CCM-SN01.cfg ...   ... OK
+    primary config   : cf3:\PER-CCM-SN01.ndx ... OK
+Completed.
+A:PER-CCM-SN01# 
+----------------------------------------
+
+--- COMANDO: admin redundancy synchronize config ---
+admin redundancy synchronize config 
+Syncing configuration:
+    boot option file : cf3:\bof.cfg ... OK
+    primary config   : cf3:\config.cfg ...   ... OK
+    primary config   : cf3:\config.ndx ... OK
+Completed.
+A:BUC-BBO-SN01# 
+----------------------------------------
+
+--- COMANDO: admin redundancy synchronize config ---
+admin redundancy synchronize config 
+Syncing configuration:
+    boot option file : cf3:\bof.cfg ... OK
+    primary config   : cf3:\config.cfg ...   ...   ... OK
+    primary config   : cf3:\config.ndx ... OK
+Completed.
+*A:AAC-BOG.ARANDA-M5# 
+----------------------------------------
+
+--- COMANDO: admin save index detail ---
+admin save index detail 
+Writing configuration to cf3:\AAG-MED.OCCEL-M3.cfg
+Saving configuration ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+Syncing Configuration on standby CPM
+    primary config   : cf3:\AAG-MED.OCCEL-M3.cfg ...   ...   ...   ... OK
+    primary config   : cf3:\AAG-MED.OCCEL-M3.ndx ... OK
+    SSH key file     : cf3:\ssh\sshV2SvrPubDSAkeyFile ... OK
+    SSH key file     : cf3:\ssh\sshV2SvrPrivDSAkeyFile ... OK
+    SSH key file     : cf3:\ssh\sshV2SvrPubRSAkeyFile ... OK
+    SSH key file     : cf3:\ssh\sshV2SvrPrivRSAkeyFile ... OK
+    SSH key file     : cf3:\ssh\SSHClientHostFile ... OK
+Completed.
+A:AAG-MED.OCCEL-M3# 
+----------------------------------------
+
+--- COMANDO: admin redundancy synchronize config ---
+admin redundancy synchronize config 
+Syncing configuration:
+    boot option file : cf3:\bof.cfg ... OK
+    primary config   : cf3:\PER-CCM-SN01.cfg ...   ... OK
+    primary config   : cf3:\PER-CCM-SN01.ndx ... OK
+Completed.
+A:PER-CCM-SN01# 
+----------------------------------------
+
+--- COMANDO: admin save ---
+admin save 
+Writing configuration to cf3:\AAG-MASTER-C1.cfg
+Saving configuration ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+Syncing Configuration on standby CPM
+    primary config   : cf3:\AAG-MASTER-C1.cfg ...   ...   ... OK
+    primary config   : cf3:\AAG-MASTER-C1.ndx ... OK
+Completed.
+B:AAG-MASTER-C1# 
+----------------------------------------
+
+
+================================================================================
+COMANDOS DE MANTENIMIENTO - AAC-CHO.RIO_IRO-M1 (10.50.71.62)
+Fecha: 2025-07-15 14:12:29
+================================================================================
+
+--- COMANDO: admin save index detail ---
+admin save index detail 
+Writing configuration to cf3:\AAG-BOG.VENECIA-M4.cfg
+Saving configuration ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+Syncing Configuration on standby CPM
+    primary config   : cf3:\AAG-BOG.VENECIA-M4.cfg ...   ...   ...   ...   ...   ... OK
+    primary config   : cf3:\AAG-BOG.VENECIA-M4.ndx ... OK
+Completed.
+*A:AAG-BOG.VENECIA-M4# 
+----------------------------------------
+
+
+================================================================================
+COMANDOS DE MANTENIMIENTO - VCO-TER-CN01 (10.50.1.79)
+Fecha: 2025-07-15 14:12:30
+================================================================================
+
+--- COMANDO: admin redundancy synchronize config ---
+admin redundancy synchronize config 
+Syncing Configuration on standby CPM
+    primary config   : cf3:\AAG-MED.OCCEL-M3.cfg ...   ...   ...   ... OK
+    primary config   : cf3:\AAG-MED.OCCEL-M3.ndx ... OK
+    SSH key file     : cf3:\ssh\sshV2SvrPubDSAkeyFile ... OK
+    SSH key file     : cf3:\ssh\sshV2SvrPrivDSAkeyFile ... OK
+    SSH key file     : cf3:\ssh\sshV2SvrPubRSAkeyFile ... OK
+    SSH key file     : cf3:\ssh\sshV2SvrPrivRSAkeyFile ... OK
+    SSH key file     : cf3:\ssh\SSHClientHostFile ... OK
+Completed.
+A:AAG-MED.OCCEL-M3# 
+----------------------------------------
+
+
+================================================================================
+COMANDOS DE MANTENIMIENTO - AAG-BOG.VERBENAL-M3 (10.50.77.58)
+Fecha: 2025-07-15 14:12:30
+================================================================================
+
+
+================================================================================
+COMANDOS DE MANTENIMIENTO - AAC-ANT.SANTO_DOMINGO-M1 (10.50.66.111)
+Fecha: 2025-07-15 14:12:31
+================================================================================
+
+
+================================================================================
+COMANDOS DE MANTENIMIENTO - AAC-CUN.SIBERIA-M2 (10.53.109.80)
+Fecha: 2025-07-15 14:12:32
+================================================================================
+
+
+================================================================================
+COMANDOS DE MANTENIMIENTO - AAG-BOG.VILLA_GLADYS-M1 (10.50.1.35)
+Fecha: 2025-07-15 14:12:33
+================================================================================
+
+
+================================================================================
+COMANDOS DE MANTENIMIENTO - AAG-BOG.TOBERIN-H3 (10.50.1.215)
+Fecha: 2025-07-15 14:12:33
+================================================================================
+
+
+================================================================================
+COMANDOS DE MANTENIMIENTO - IBA-PIC-CN01 (10.50.1.75)
+Fecha: 2025-07-15 14:12:33
+================================================================================
+
+
+================================================================================
+COMANDOS DE MANTENIMIENTO - AAC-BOG.CENTRO-C3 (10.50.1.255)
+Fecha: 2025-07-15 14:12:33
+================================================================================
+
+--- COMANDO: admin save index detail ---
+admin save index detail 
+Writing configuration to cf3:\AAG-TRIARA-C1.cfg
+Saving configuration ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+Syncing Configuration on standby CPM
+    primary config   : cf3:\AAG-TRIARA-C1.cfg ...   ...   ...   ...   ... OK
+    primary config   : cf3:\AAG-TRIARA-C1.ndx ... OK
+Completed.
+B:AAG-TRIARA-C1# 
+----------------------------------------
+
+--- COMANDO: admin redundancy synchronize config ---
+admin redundancy synchronize config 
+Syncing Configuration on standby CPM
+    primary config   : cf3:\AAG-BOG.VENECIA-M4.cfg ...   ...   ...   ...   ...   ... OK
+    primary config   : cf3:\AAG-BOG.VENECIA-M4.ndx ... OK
+Completed.
+*A:AAG-BOG.VENECIA-M4# 
+----------------------------------------
+
+
+================================================================================
+COMANDOS DE MANTENIMIENTO - AAG-CENTRO-C1 (10.50.1.100)
+Fecha: 2025-07-15 14:12:39
+================================================================================
+
+--- COMANDO: admin redundancy synchronize config ---
+admin redundancy synchronize config 
+Syncing Configuration on standby CPM
+    primary config   : cf3:\AAG-TRIARA-C1.cfg ...   ...   ...   ...   ...   ...   ...   ... OK
+    primary config   : cf3:\AAG-TRIARA-C1.ndx ... OK
+Completed.
+B:AAG-TRIARA-C1# 
+----------------------------------------
+
+--- COMANDO: admin save index detail ---
+admin save index detail 
+Writing configuration to cf3:\AAG-DORADO-C1.cfg
+Saving configuration ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+Syncing Configuration on standby CPM
+    primary config   : cf3:\AAG-DORADO-C1.cfg ...   ...   ...   ...   ...   ... OK
+    primary config   : cf3:\AAG-DORADO-C1.ndx ... OK
+Completed.
+A:AAG-DORADO-C1# 
+----------------------------------------
+
+--- COMANDO: admin redundancy synchronize config ---
+admin redundancy synchronize config 
+Syncing Configuration on standby CPM
+    primary config   : cf3:\AAG-DORADO-C1.cfg ...   ...   ...   ...   ...   ... OK
+    primary config   : cf3:\AAG-DORADO-C1.ndx ... OK
+Completed.
+A:AAG-DORADO-C1# 
+----------------------------------------
+
+--- COMANDO: admin save index detail ---
+admin save index detail 
+Writing configuration to cf3:\AAG-MASTER-C1.cfg
+Saving configuration ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+Syncing Configuration on standby CPM
+    primary config   : cf3:\AAG-MASTER-C1.cfg ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+    primary config   : cf3:\AAG-MASTER-C1.ndx ... OK
+Completed.
+B:AAG-MASTER-C1# 
+----------------------------------------
+
+--- COMANDO: admin redundancy synchronize config ---
+admin redundancy synchronize config 
+Syncing Configuration on standby CPM
+    primary config   : cf3:\AAG-MASTER-C1.cfg ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+    primary config   : cf3:\AAG-MASTER-C1.ndx ... OK
+Completed.
+B:AAG-MASTER-C1# 
+----------------------------------------
+
+--- COMANDO: admin save ---
+admin save
+-bash: admin: command not found
+TFM0666_Hendrix:/home/ICF8613D> 
+----------------------------------------
+
+--- COMANDO: admin save ---
+admin save
+-bash: admin: command not found
+TFM0666_Hendrix:/home/ICF8613D> 
+----------------------------------------
+
+--- COMANDO: admin save ---
+admin save
+-bash: admin: command not found
+TFM0666_Hendrix:/home/ICF8613D> 
+----------------------------------------
+
+--- COMANDO: admin save ---
+admin save
+-bash: admin: command not found
+TFM0666_Hendrix:/home/ICF8613D> 
+----------------------------------------
+
+--- COMANDO: admin save ---
+admin save
+-bash: admin: command not found
+TFM0666_Hendrix:/home/ICF8613D> 
+----------------------------------------
+
+--- COMANDO: admin save ---
+admin save
+-bash: admin: command not found
+TFM0666_Hendrix:/home/ICF8613D> 
+----------------------------------------
+
+--- COMANDO: admin save ---
+admin save
+-bash: admin: command not found
+TFM0666_Hendrix:/home/ICF8613D> 
+----------------------------------------
+
+--- COMANDO: admin save ---
+admin save
+-bash: admin: command not found
+TFM0666_Hendrix:/home/ICF8613D> 
+----------------------------------------
+
+--- COMANDO: admin save ---
+admin save
+-bash: admin: command not found
+TFM0666_Hendrix:/home/ICF8613D> 
+----------------------------------------
+
+
+================================================================================
+COMANDOS DE MANTENIMIENTO - AAG-ORTEZAL-C1 (10.50.1.107)
+Fecha: 2025-07-15 14:14:34
+================================================================================
+
+
+================================================================================
+COMANDOS DE MANTENIMIENTO - AAC-TUL.SAN_FERNANDO-M1 (10.50.90.69)
+Fecha: 2025-07-15 14:14:35
+================================================================================
+
+--- COMANDO: admin save ---
+admin save 
+Writing configuration to cf3:\AAC-TUL.SAN_FERNANDO-M1.cfg
+Saving configuration ...   ... OK
+Syncing Configuration on standby CPM
+    primary config   : cf3:\AAC-TUL.SAN_FERNANDO-M1.cfg ... OK
+    primary config   : cf3:\AAC-TUL.SAN_FERNANDO-M1.ndx ... OK
+Completed.
+A:AAC-TUL.SAN_FERNANDO-M1# 
+----------------------------------------
+
+
+================================================================================
+COMANDOS DE MANTENIMIENTO - AAC-CAL.ACOPI-M3 (10.53.122.241)
+Fecha: 2025-07-15 14:14:38
+================================================================================
+
+
+================================================================================
+COMANDOS DE MANTENIMIENTO - AAC-BAR.ALKARAWI-M4 (10.53.100.200)
+Fecha: 2025-07-15 14:14:38
+================================================================================
+
+
+================================================================================
+COMANDOS DE MANTENIMIENTO - AAC-BAR.CUMBRE-M2 (10.53.100.201)
+Fecha: 2025-07-15 14:14:38
+================================================================================
+
+--- COMANDO: admin save ---
+admin save
+-bash: admin: command not found
+TFM0666_Hendrix:/home/ICF8613D> 
+----------------------------------------
+
+--- COMANDO: admin save ---
+admin save 
+Writing configuration to cf3:\AAG-ORTEZAL-C1.cfg
+Saving configuration ...   ...   ...   ...   ...   ... OK
+Syncing Configuration on standby CPM
+    primary config   : cf3:\AAG-ORTEZAL-C1.cfg ...   ... OK
+    primary config   : cf3:\AAG-ORTEZAL-C1.ndx ... OK
+Completed.
+A:AAG-ORTEZAL-C1# 
+----------------------------------------
+
+--- COMANDO: admin redundancy synchronize boot-env ---
+admin redundancy synchronize boot-env 
+Syncing Boot environment on standby CPM
+    boot option file : cf3:\bof.cfg ... OK
+    boot loader      : cf3:\boot.ldr ...   ...   ...   ... OK
+    nvsys file       : cf3:\nvsys.info ... OK
+    primary config   : cf3:\AAG-MED.OCCEL-M3.cfg ...   ...   ... OK
+    primary config   : cf3:\AAG-MED.OCCEL-M3.ndx ... OK
+    SSH key file     : cf3:\ssh\sshV2SvrPubDSAkeyFile ... OK
+    SSH key file     : cf3:\ssh\sshV2SvrPrivDSAkeyFile ... OK
+    SSH key file     : cf3:\ssh\sshV2SvrPubRSAkeyFile ... OK
+    SSH key file     : cf3:\ssh\sshV2SvrPrivRSAkeyFile ... OK
+    SSH key file     : cf3:\ssh\SSHClientHostFile ... OK
+    primary image    : cf3:\images\TiMOS-C-12.0.R9\cpm.tim ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+    primary image    : cf3:\images\TiMOS-C-12.0.R9\iom.tim ...   ...   ...   ...   ...   ... OK
+    primary image    : cf3:\images\TiMOS-C-12.0.R9\isa-tms.tim ... OK
+    primary image    : cf3:\images\TiMOS-C-12.0.R9\isa-aa.tim ...   ...   ...   ...   ...   ...   ...   ... OK
+    primary image    : cf3:\images\TiMOS-C-12.0.R9\support.tim ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+    Waiting for standby to read new BOF.CFG ... OK
+Completed.
+A:AAG-MED.OCCEL-M3# 
+----------------------------------------
+
+--- COMANDO: show redundancy synchronization ---
+show redundancy synchronization 
+
+===============================================================================
+Synchronization Information
+===============================================================================
+Standby Status               : standby ready
+Last Standby Failure         : N/A
+Standby Up Time              : 2022/03/24 16:18:47
+Standby Version              : TiMOS-C-12.0.R9 cpm/hops64 ALCATEL SR 7750
+                               Copyright (c) 2000-2015 Alcatel-Lucent.
+                               All rights reserved. All use subject to
+                               applicable license agreements.
+                               Built on Fri Mar 20 11:14:03 PDT 2015 by
+                               builder in /rel12.0/b1/R9/panos/main
+Failover Time                : 12/12/2024 21:11:23
+Failover Reason              : user forced switchover
+Boot/Config Sync Mode        : Configuration
+Boot/Config Sync Status      : All boot environment synchronized
+Last Config File Sync Time   : 07/15/2025 14:12:26
+Last Boot Env Sync Time      : 07/15/2025 14:14:39
+Rollback Sync Mode           : None
+Rollback Sync Status         : Rollback sync successful
+Last Rollback Sync Time      : 01/12/2025 07:45:03
+Certificate Sync             : Enabled
+Cert Sync Status             : unknown
+Last Cert Sync Time          : Never
+===============================================================================
+A:AAG-MED.OCCEL-M3# 
+----------------------------------------
+
+--- COMANDO: admin save ---
+admin save 
+Writing configuration to cf3:\AAC-CAL.ACOPI-M3.cfg
+Saving configuration ...   ...   ...   ...   ...   ... OK
+Syncing configuration:
+    boot option file : cf3:\bof.cfg ... OK
+    primary config   : cf3:\AAC-CAL.ACOPI-M3.cfg ...   ... OK
+    primary config   : cf3:\AAC-CAL.ACOPI-M3.ndx ... OK
+Completed.
+B:AAC-CAL.ACOPI-M3# 
+----------------------------------------
+
+--- COMANDO: admin save ---
+admin save 
+Writing configuration to cf3:\AAC-BAR.ALKARAWI-M4.cfg
+Saving configuration ...   ...   ...   ...   ...   ...   ...   ... OK
+Syncing configuration:
+    boot option file : cf3:\bof.cfg ... OK
+    primary config   : cf3:\AAC-BAR.ALKARAWI-M4.cfg ...   ...   ... OK
+    primary config   : cf3:\AAC-BAR.ALKARAWI-M4.ndx ... OK
+Completed.
+B:AAC-BAR.ALKARAWI-M4# 
+----------------------------------------
+
+--- COMANDO: admin save index detail ---
+admin save index detail 
+Writing configuration to cf3:\AAC-TUL.SAN_FERNANDO-M1.cfg
+Saving configuration ...   ...   ...   ...   ...   ...   ...   ... OK
+Syncing Configuration on standby CPM
+    primary config   : cf3:\AAC-TUL.SAN_FERNANDO-M1.cfg ...   ...   ...   ...   ...   ... OK
+    primary config   : cf3:\AAC-TUL.SAN_FERNANDO-M1.ndx ... OK
+Completed.
+A:AAC-TUL.SAN_FERNANDO-M1# 
+----------------------------------------
+
+--- COMANDO: admin redundancy synchronize config ---
+admin redundancy synchronize config 
+Syncing Configuration on standby CPM
+    primary config   : cf3:\AAC-TUL.SAN_FERNANDO-M1.cfg ...   ... OK
+    primary config   : cf3:\AAC-TUL.SAN_FERNANDO-M1.ndx ... OK
+Completed.
+A:AAC-TUL.SAN_FERNANDO-M1# 
+----------------------------------------
+
+--- COMANDO: admin save index detail ---
+admin save index detail 
+Writing configuration to cf3:\AAC-CAL.ACOPI-M3.cfg
+Saving configuration ...   ...   ...   ...   ...   ...   ...   ... OK
+Syncing configuration:
+    boot option file : cf3:\bof.cfg ... OK
+    primary config   : cf3:\AAC-CAL.ACOPI-M3.cfg ...   ...   ... OK
+    primary config   : cf3:\AAC-CAL.ACOPI-M3.ndx ... OK
+Completed.
+B:AAC-CAL.ACOPI-M3# 
+----------------------------------------
+
+--- COMANDO: admin redundancy synchronize config ---
+admin redundancy synchronize config 
+Syncing configuration:
+    boot option file : cf3:\bof.cfg ... OK
+    primary config   : cf3:\AAC-CAL.ACOPI-M3.cfg ...   ...   ... OK
+    primary config   : cf3:\AAC-CAL.ACOPI-M3.ndx ... OK
+Completed.
+B:AAC-CAL.ACOPI-M3# 
+----------------------------------------
+
+
+================================================================================
+COMANDOS DE MANTENIMIENTO - AAG-ARM.TERMINAL-M1 (10.50.84.34)
+Fecha: 2025-07-15 14:15:05
+================================================================================
+
+--- COMANDO: admin save index detail ---
+admin save index detail 
+Writing configuration to cf3:\AAG-ORTEZAL-C1.cfg
+Saving configuration ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+Syncing Configuration on standby CPM
+    primary config   : cf3:\AAG-ORTEZAL-C1.cfg ...   ...   ...   ...   ...   ...   ... OK
+    primary config   : cf3:\AAG-ORTEZAL-C1.ndx ... OK
+Completed.
+A:AAG-ORTEZAL-C1# 
+----------------------------------------
+
+
+================================================================================
+COMANDOS DE MANTENIMIENTO - AAG-BUC.FLORIDABLANCA-M1 (10.50.87.3)
+Fecha: 2025-07-15 14:15:07
+================================================================================
+
+
+================================================================================
+COMANDOS DE MANTENIMIENTO - AAG-CAR.JUANITA-M1 (10.50.69.8)
+Fecha: 2025-07-15 14:15:08
+================================================================================
+
+--- COMANDO: admin redundancy synchronize boot-env ---
+admin redundancy synchronize boot-env 
+Syncing boot environment:
+    boot option file : cf3:\bof.cfg ... OK
+    boot loader      : cf3:\boot.ldr ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+    nvsys file       : cf3:\nvsys.info ... OK
+    primary config   : cf3:\config.cfg ...   ...   ... OK
+    primary config   : cf3:\config.ndx ... OK
+    primary image    : cf3:\images\TiMOS-B-6.2.R2\both.tim ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+      Waiting for standby to read new BOF.CFG ... OK
+Completed.
+*A:AAC-BOG.ARANDA-M5# 
+----------------------------------------
+
+
+================================================================================
+COMANDOS DE MANTENIMIENTO - AAG-BAR.POLICIA_NACIONAL-M1 (10.50.68.28)
+Fecha: 2025-07-15 14:15:09
+================================================================================
+
+--- COMANDO: show redundancy synchronization ---
+show redundancy synchronization 
+
+===============================================================================
+Synchronization Information
+===============================================================================
+Standby Status               : standby ready
+Last Standby Failure         : N/A
+Standby Up Time              : 2016/02/09 23:14:34
+Standby Version              : TiMOS-B-6.2.R2 both/hops ALCATEL-LUCENT SAR
+                               7705
+                               Copyright (c) 2000-2015 Alcatel-Lucent.
+                               All rights reserved. All use subject to
+                               applicable license agreements.
+                               Built on Thu Apr 30 11:43:44 EDT 2015 by
+                               csabuild in /rel6.2/b1/R2/panos/main  
+Failover Time                : 04/10/2024 13:58:59
+Failover Reason              : active CPM sync lost
+Boot/Config Sync Mode        : Configuration
+Boot/Config Sync Status      : All boot environment synchronized
+Last Config File Sync Time   : 07/15/2025 14:15:05
+Last Boot Env Sync Time      : 07/15/2025 14:15:05
+===============================================================================
+*A:AAC-BOG.ARANDA-M5# 
+----------------------------------------
+
+--- COMANDO: admin save index detail ---
+admin save index detail 
+Writing configuration to cf3:\AAC-BAR.ALKARAWI-M4.cfg
+Saving configuration ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+Syncing configuration:
+    boot option file : cf3:\bof.cfg ... OK
+    primary config   : cf3:\AAC-BAR.ALKARAWI-M4.cfg ...   ...   ...   ...   ... OK
+    primary config   : cf3:\AAC-BAR.ALKARAWI-M4.ndx ... OK
+Completed.
+B:AAC-BAR.ALKARAWI-M4# 
+----------------------------------------
+
+--- COMANDO: admin redundancy synchronize config ---
+admin redundancy synchronize config 
+Syncing Configuration on standby CPM
+    primary config   : cf3:\AAG-ORTEZAL-C1.cfg ...   ...   ...   ...   ...   ...   ...   ... OK
+    primary config   : cf3:\AAG-ORTEZAL-C1.ndx ... OK
+Completed.
+A:AAG-ORTEZAL-C1# 
+----------------------------------------
+
+--- COMANDO: admin redundancy synchronize config ---
+admin redundancy synchronize config 
+Syncing configuration:
+    boot option file : cf3:\bof.cfg ... OK
+    primary config   : cf3:\AAC-BAR.ALKARAWI-M4.cfg ...   ...   ...   ...   ... OK
+    primary config   : cf3:\AAC-BAR.ALKARAWI-M4.ndx ... OK
+Completed.
+B:AAC-BAR.ALKARAWI-M4# 
+----------------------------------------
+
+--- COMANDO: admin redundancy synchronize boot-env ---
+admin redundancy synchronize boot-env 
+Syncing Boot environment on standby CPM
+    boot option file : cf3:\bof.cfg ... OK
+    boot loader      : cf3:\boot.ldr ...   ...   ... OK
+    nvsys file       : cf3:\nvsys.info ... OK
+    primary config   : cf3:\AAG-DORADO-C1.cfg ...   ...   ...   ...   ...   ... OK
+    primary config   : cf3:\AAG-DORADO-C1.ndx ... OK
+    rescue           : cf3:\ROLLRESCUE\rollrescue.rc ...   ... OK
+    rollback         : cf3:\rollback\rollback.rb ...   ... OK
+    rollback         : cf3:\rollback\rollback.rb.1 ...   ... OK
+    primary image    : cf3:\TiMOS-SR-12.0.R9\cpm.tim ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+    primary image    : cf3:\TiMOS-SR-12.0.R9\iom.tim ...   ...   ...   ...   ...   ... OK
+    primary image    : cf3:\TiMOS-SR-12.0.R9\isa-aa.tim ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+    primary image    : cf3:\TiMOS-SR-12.0.R9\support.tim ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+    Waiting for standby to read new BOF.CFG ... OK
+Completed.
+A:AAG-DORADO-C1# 
+----------------------------------------
+
+--- COMANDO: show redundancy synchronization ---
+show redundancy synchronization 
+
+===============================================================================
+Synchronization Information
+===============================================================================
+Standby Status               : standby ready
+Last Standby Failure         : N/A
+Standby Up Time              : 2021/05/09 23:14:25
+Standby Version              : TiMOS-C-12.0.R9 cpm/hops64 ALCATEL ESS 7450
+                               Copyright (c) 2000-2015 Alcatel-Lucent.
+                               All rights reserved. All use subject to
+                               applicable license agreements.
+                               Built on Fri Mar 20 11:14:03 PDT 2015 by
+                               builder in /rel12.0/b1/R9/panos/main
+Failover Time                : 06/09/2025 06:35:54
+Failover Reason              : user forced switchover
+Boot/Config Sync Mode        : Configuration
+Boot/Config Sync Status      : All boot environment synchronized
+Last Config File Sync Time   : 07/15/2025 14:12:50
+Last Boot Env Sync Time      : 07/15/2025 14:15:19
+Rollback Sync Mode           : None
+Rollback Sync Status         : Rollback sync successful
+Last Rollback Sync Time      : 10/24/2024 19:08:50
+Certificate Sync             : Enabled
+Cert Sync Status             : unknown
+Last Cert Sync Time          : Never
+===============================================================================
+A:AAG-DORADO-C1# 
+----------------------------------------
+
+--- COMANDO: admin redundancy synchronize boot-env ---
+admin redundancy synchronize boot-env 
+Syncing boot environment:
+    boot option file : cf3:\bof.cfg ... OK
+    boot loader      : cf3:\boot.ldr ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+    nvsys file       : cf3:\nvsys.info ... OK
+    primary config   : cf3:\CAL-DEC-AN01.cfg ...   ... OK
+    primary config   : cf3:\CAL-DEC-AN01.ndx ... OK
+    primary image    : cf3:\images\TiMOS-B-6.2.R2\both.tim ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+      Waiting for standby to read new BOF.CFG ... OK
+Completed.
+A:CAL-DEC-AN01# 
+----------------------------------------
+
+--- COMANDO: show redundancy synchronization ---
+show redundancy synchronization 
+
+===============================================================================
+Synchronization Information
+===============================================================================
+Standby Status               : standby ready
+Last Standby Failure         : N/A
+Standby Up Time              : 2025/04/25 17:19:34
+Standby Version              : TiMOS-B-6.2.R2 both/hops ALCATEL-LUCENT SAR
+                               7705
+                               Copyright (c) 2000-2015 Alcatel-Lucent.
+                               All rights reserved. All use subject to
+                               applicable license agreements.
+                               Built on Thu Apr 30 11:43:44 EDT 2015 by
+                               csabuild in /rel6.2/b1/R2/panos/main  
+Failover Time                : N/A
+Failover Reason              : N/A
+Boot/Config Sync Mode        : Configuration
+Boot/Config Sync Status      : All boot environment synchronized
+Last Config File Sync Time   : 07/15/2025 14:15:20
+Last Boot Env Sync Time      : 07/15/2025 14:15:20
+===============================================================================
+A:CAL-DEC-AN01# 
+----------------------------------------
+
+--- COMANDO: admin redundancy synchronize boot-env ---
+admin redundancy synchronize boot-env 
+Syncing boot environment:
+    boot option file : cf3:\bof.cfg ... OK
+    boot loader      : cf3:\boot.ldr ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+    nvsys file       : cf3:\nvsys.info ... OK
+    primary config   : cf3:\config.cfg ...   ... OK
+    primary config   : cf3:\config.ndx ... OK
+    primary image    : cf3:\images\TiMOS-B-6.2.R2\both.tim ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+      Waiting for standby to read new BOF.CFG ... OK
+Completed.
+A:BUC-BBO-SN01# 
+----------------------------------------
+
+--- COMANDO: show redundancy synchronization ---
+show redundancy synchronization 
+
+===============================================================================
+Synchronization Information
+===============================================================================
+Standby Status               : standby ready
+Last Standby Failure         : N/A
+Standby Up Time              : 2017/11/15 13:18:52
+Standby Version              : TiMOS-B-6.2.R2 both/hops ALCATEL-LUCENT SAR
+                               7705
+                               Copyright (c) 2000-2015 Alcatel-Lucent.
+                               All rights reserved. All use subject to
+                               applicable license agreements.
+                               Built on Thu Apr 30 11:43:44 EDT 2015 by
+                               csabuild in /rel6.2/b1/R2/panos/main  
+Failover Time                : N/A
+Failover Reason              : N/A
+Boot/Config Sync Mode        : Configuration
+Boot/Config Sync Status      : All boot environment synchronized
+Last Config File Sync Time   : 07/15/2025 14:15:23
+Last Boot Env Sync Time      : 07/15/2025 14:15:23
+===============================================================================
+A:BUC-BBO-SN01# 
+----------------------------------------
+
+--- COMANDO: admin redundancy synchronize boot-env ---
+admin redundancy synchronize boot-env 
+Syncing boot environment:
+    boot option file : cf3:\bof.cfg ... OK
+    boot loader      : cf3:\boot.ldr ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+    nvsys file       : cf3:\nvsys.info ... OK
+    primary config   : cf3:\PER-CCM-SN01.cfg ...   ... OK
+    primary config   : cf3:\PER-CCM-SN01.ndx ... OK
+    primary image    : cf3:\images\TiMOS-B-6.2.R2\both.tim ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   .OK
+      Waiting for standby to read new BOF.CFG ... OK
+Completed.
+A:PER-CCM-SN01# 
+----------------------------------------
+
+--- COMANDO: admin redundancy synchronize boot-env ---
+admin redundancy synchronize boot-env 
+Syncing Boot environment on standby CPM
+    boot option file : cf3:\bof.cfg ... OK
+    boot loader      : cf3:\boot.ldr ...   ...   ... OK
+    nvsys file       : cf3:\nvsys.info ... OK
+    primary config   : cf3:\AAG-TRIARA-C1.cfg ...   ...   ...   ...   ...   ... OK
+    primary config   : cf3:\AAG-TRIARA-C1.ndx ...   ... OK
+    rescue           : cf3:\ROLLRESCUE\rollrescue.rc ...   ...   ...   ... OK
+    rollback         : cf3:\rollback\rollback.rb ...   ...   ... OK
+    rollback         : cf3:\rollback\rollback.rb.1 ...   ... OK
+    rollback         : cf3:\rollback\rollback.rb.2 ...   ... OK
+    primary image    : cf3:\images\TiMOS-C-12.0.R9\cpm.tim ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+    primary image    : cf3:\images\TiMOS-C-12.0.R9\iom.tim ...   ...   ...   ...   ...   ...   ...   ... OK
+    primary image    : cf3:\images\TiMOS-C-12.0.R9\isa-aa.tim ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+    primary image    : cf3:\images\TiMOS-C-12.0.R9\support.tim ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+    Waiting for standby to read new BOF.CFG ... OK
+Completed.
+B:AAG-TRIARA-C1# 
+----------------------------------------
+
+--- COMANDO: show redundancy synchronization ---
+show redundancy synchronization 
+
+===============================================================================
+Synchronization Information
+===============================================================================
+Standby Status               : standby ready
+Last Standby Failure         : N/A
+Standby Up Time              : 2025/05/15 05:19:55
+Standby Version              : TiMOS-B-6.2.R2 both/hops ALCATEL-LUCENT SAR
+                               7705
+                               Copyright (c) 2000-2015 Alcatel-Lucent.
+                               All rights reserved. All use subject to
+                               applicable license agreements.
+                               Built on Thu Apr 30 11:43:44 EDT 2015 by
+                               csabuild in /rel6.2/b1/R2/panos/main  
+Failover Time                : N/A
+Failover Reason              : N/A
+Boot/Config Sync Mode        : Configuration
+Boot/Config Sync Status      : All boot environment synchronized
+Last Config File Sync Time   : 07/15/2025 14:15:31
+Last Boot Env Sync Time      : 07/15/2025 14:15:31
+===============================================================================
+A:PER-CCM-SN01# 
+----------------------------------------
+
+--- COMANDO: show redundancy synchronization ---
+show redundancy synchronization 
+
+===============================================================================
+Synchronization Information
+===============================================================================
+Standby Status               : standby ready
+Last Standby Failure         : N/A
+Standby Up Time              : 2022/12/22 10:24:32
+Standby Version              : TiMOS-C-12.0.R9 cpm/hops64 ALCATEL ESS 7450
+                               Copyright (c) 2000-2015 Alcatel-Lucent.
+                               All rights reserved. All use subject to
+                               applicable license agreements.
+                               Built on Fri Mar 20 11:14:03 PDT 2015 by
+                               builder in /rel12.0/b1/R9/panos/main
+Failover Time                : 05/02/2024 12:50:20
+Failover Reason              : user forced switchover
+Boot/Config Sync Mode        : Configuration
+Boot/Config Sync Status      : All boot environment synchronized
+Last Config File Sync Time   : 07/15/2025 14:12:41
+Last Boot Env Sync Time      : 07/15/2025 14:15:33
+Rollback Sync Mode           : None
+Rollback Sync Status         : Rollback sync successful
+Last Rollback Sync Time      : 05/14/2025 01:29:09
+Certificate Sync             : Enabled
+Cert Sync Status             : unknown
+Last Cert Sync Time          : Never
+===============================================================================
+B:AAG-TRIARA-C1# 
+----------------------------------------
+
+--- COMANDO: admin redundancy synchronize boot-env ---
+admin redundancy synchronize boot-env 
+Syncing boot environment:
+    boot option file : cf3:\bof.cfg ... OK
+    boot loader      : cf3:\boot.ldr ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+    nvsys file       : cf3:\nvsys.info ... OK
+    primary config   : cf3:\config.cfg ...   ... OK
+    primary config   : cf3:\config.ndx ... OK
+    primary image    : cf3:\images\TiMOS-B-6.2.R2\both.tim ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+      Waiting for standby to read new BOF.CFG ... OK
+Completed.
+A:BAR-CUM-SN01# 
+----------------------------------------
+
+--- COMANDO: admin save ---
+admin save 
+Writing configuration to cf3:\AAC-BAR.CUMBRE-M2.cfg
+Saving configuration ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+Syncing configuration:
+    boot option file : cf3:\bof.cfg ... OK
+    primary config   : cf3:\AAC-BAR.CUMBRE-M2.cfg ...   ...   ...   ... OK
+    primary config   : cf3:\AAC-BAR.CUMBRE-M2.ndx ...   ...   ...   ... OK
+Completed.
+A:AAC-BAR.CUMBRE-M2# 
+----------------------------------------
+
+--- COMANDO: show redundancy synchronization ---
+show redundancy synchronization 
+
+===============================================================================
+Synchronization Information
+===============================================================================
+Standby Status               : standby ready
+Last Standby Failure         : N/A
+Standby Up Time              : 2016/11/16 20:50:19
+Standby Version              : TiMOS-B-6.2.R2 both/hops ALCATEL-LUCENT SAR
+                               7705
+                               Copyright (c) 2000-2015 Alcatel-Lucent.
+                               All rights reserved. All use subject to
+                               applicable license agreements.
+                               Built on Thu Apr 30 11:43:44 EDT 2015 by
+                               csabuild in /rel6.2/b1/R2/panos/main  
+Failover Time                : N/A
+Failover Reason              : N/A
+Boot/Config Sync Mode        : Configuration
+Boot/Config Sync Status      : All boot environment synchronized
+Last Config File Sync Time   : 07/15/2025 14:15:43
+Last Boot Env Sync Time      : 07/15/2025 14:15:43
+===============================================================================
+A:BAR-CUM-SN01# 
+----------------------------------------
+
+--- COMANDO: admin save index detail ---
+admin save index detail 
+Writing configuration to cf3:\AAC-BAR.CUMBRE-M2.cfg
+Saving configuration ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+Syncing configuration:
+    boot option file : cf3:\bof.cfg ... OK
+    primary config   : cf3:\AAC-BAR.CUMBRE-M2.cfg ...   ...   ...   ...   ...   ... OK
+    primary config   : cf3:\AAC-BAR.CUMBRE-M2.ndx ...   ...   ... OK
+Completed.
+A:AAC-BAR.CUMBRE-M2# 
+----------------------------------------
+
+--- COMANDO: admin redundancy synchronize config ---
+admin redundancy synchronize config 
+Syncing configuration:
+    boot option file : cf3:\bof.cfg ... OK
+    primary config   : cf3:\AAC-BAR.CUMBRE-M2.cfg ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+    primary config   : cf3:\AAC-BAR.CUMBRE-M2.ndx ...   ... OK
+Completed.
+A:AAC-BAR.CUMBRE-M2# 
+----------------------------------------
+
+--- COMANDO: admin save ---
+admin save
+-bash: admin: command not found
+TFM0666_Hendrix:/home/ICF8613D> 
+----------------------------------------
+
+--- COMANDO: admin save ---
+admin save
+-bash: admin: command not found
+TFM0666_Hendrix:/home/ICF8613D> 
+----------------------------------------
+
+--- COMANDO: admin save ---
+admin save
+-bash: admin: command not found
+TFM0666_Hendrix:/home/ICF8613D> 
+----------------------------------------
+
+--- COMANDO: admin save ---
+admin save
+-bash: admin: command not found
+TFM0666_Hendrix:/home/ICF8613D> 
+----------------------------------------
+
+--- COMANDO: admin redundancy synchronize boot-env ---
+admin redundancy synchronize boot-env 
+Syncing Boot environment on standby CPM
+    boot option file : cf3:\bof.cfg ... OK
+    boot loader      : cf3:\boot.ldr ...   ...   ... OK
+    nvsys file       : cf3:\nvsys.info ... OK
+    primary config   : cf3:\AAG-ORTEZAL-C1.cfg ...   ...   ...   ...   ...   ...   ... OK
+    primary config   : cf3:\AAG-ORTEZAL-C1.ndx ... OK
+    rescue           : cf3:\ROLLRESCUE\rollrescue.rc ...   ... OK
+    rollback         : cf3:\rollback\rollback.rb ...   ... OK
+    primary image    : cf3:\images\TiMOS-SR-12.0.R9\cpm.tim ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+    primary image    : cf3:\images\TiMOS-SR-12.0.R9\iom.tim ...   ...   ...   ...   ...   ...   ... OK
+    primary image    : cf3:\images\TiMOS-SR-12.0.R9\isa-aa.tim ...   ...   ...   ...   ...   ...   ...   ... OK
+    primary image    : cf3:\images\TiMOS-SR-12.0.R9\support.tim ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+    Waiting for standby to read new BOF.CFG ... OK
+Completed.
+A:AAG-ORTEZAL-C1# 
+----------------------------------------
+
+--- COMANDO: show redundancy synchronization ---
+show redundancy synchronization 
+
+===============================================================================
+Synchronization Information
+===============================================================================
+Standby Status               : standby ready
+Last Standby Failure         : N/A
+Standby Up Time              : 2020/09/22 20:35:04
+Standby Version              : TiMOS-C-12.0.R9 cpm/hops64 ALCATEL ESS 7450
+                               Copyright (c) 2000-2015 Alcatel-Lucent.
+                               All rights reserved. All use subject to
+                               applicable license agreements.
+                               Built on Fri Mar 20 11:14:03 PDT 2015 by
+                               builder in /rel12.0/b1/R9/panos/main
+Failover Time                : N/A
+Failover Reason              : N/A
+Boot/Config Sync Mode        : Configuration
+Boot/Config Sync Status      : All boot environment synchronized
+Last Config File Sync Time   : 07/15/2025 14:15:10
+Last Boot Env Sync Time      : 07/15/2025 14:17:30
+Rollback Sync Mode           : None
+Rollback Sync Status         : Rollback sync successful
+Last Rollback Sync Time      : 07/03/2025 04:21:18
+Certificate Sync             : Enabled
+Cert Sync Status             : unknown
+Last Cert Sync Time          : Never
+===============================================================================
+A:AAG-ORTEZAL-C1# 
+----------------------------------------
+
+--- COMANDO: admin redundancy synchronize boot-env ---
+admin redundancy synchronize boot-env 
+Syncing boot environment:
+    boot option file : cf3:\bof.cfg ... OK
+    boot loader      : cf3:\boot.ldr ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+    nvsys file       : cf3:\nvsys.info ... OK
+    primary config   : cf3:\AAC-CAL.ACOPI-M3.cfg ...   ...   ... OK
+    primary config   : cf3:\AAC-CAL.ACOPI-M3.ndx ... OK
+    primary image    : cf3:\images\TiMOS-B-6.2.R2\both.tim ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+      Waiting for standby to read new BOF.CFG ... OK
+Completed.
+B:AAC-CAL.ACOPI-M3# 
+----------------------------------------
+
+--- COMANDO: show redundancy synchronization ---
+show redundancy synchronization 
+
+===============================================================================
+Synchronization Information
+===============================================================================
+Standby Status               : standby ready
+Last Standby Failure         : N/A
+Standby Up Time              : 2016/03/17 00:45:44
+Standby Version              : TiMOS-B-6.2.R2 both/hops ALCATEL-LUCENT SAR
+                               7705
+                               Copyright (c) 2000-2015 Alcatel-Lucent.
+                               All rights reserved. All use subject to
+                               applicable license agreements.
+                               Built on Thu Apr 30 11:43:44 EDT 2015 by
+                               csabuild in /rel6.2/b1/R2/panos/main  
+Failover Time                : 05/16/2024 15:30:45
+Failover Reason              : user forced switchover
+Boot/Config Sync Mode        : Configuration
+Boot/Config Sync Status      : All boot environment synchronized
+Last Config File Sync Time   : 07/15/2025 14:17:40
+Last Boot Env Sync Time      : 07/15/2025 14:17:40
+===============================================================================
+B:AAC-CAL.ACOPI-M3# 
+----------------------------------------
+
+--- COMANDO: admin redundancy synchronize boot-env ---
+admin redundancy synchronize boot-env 
+Syncing boot environment:
+    boot option file : cf3:\bof.cfg ... OK
+    boot loader      : cf3:\boot.ldr ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+    nvsys file       : cf3:\nvsys.info ... OK
+    primary config   : cf3:\AAC-BAR.ALKARAWI-M4.cfg ...   ...   ...   ... OK
+    primary config   : cf3:\AAC-BAR.ALKARAWI-M4.ndx ... OK
+    primary image    : cf3:\images\TiMOS-B-6.2.R2\both.tim ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+      Waiting for standby to read new BOF.CFG ... OK
+Completed.
+B:AAC-BAR.ALKARAWI-M4# 
+----------------------------------------
+
+--- COMANDO: show redundancy synchronization ---
+show redundancy synchronization 
+
+===============================================================================
+Synchronization Information
+===============================================================================
+Standby Status               : standby ready
+Last Standby Failure         : N/A
+Standby Up Time              : 2019/11/14 18:53:14
+Standby Version              : TiMOS-B-6.2.R2 both/hops ALCATEL-LUCENT SAR
+                               7705
+                               Copyright (c) 2000-2015 Alcatel-Lucent.
+                               All rights reserved. All use subject to
+                               applicable license agreements.
+                               Built on Thu Apr 30 11:43:44 EDT 2015 by
+                               csabuild in /rel6.2/b1/R2/panos/main  
+Failover Time                : 04/25/2025 04:42:31
+Failover Reason              : user forced switchover
+Boot/Config Sync Mode        : Configuration
+Boot/Config Sync Status      : All boot environment synchronized
+Last Config File Sync Time   : 07/15/2025 14:20:41
+Last Boot Env Sync Time      : 07/15/2025 14:20:41
+===============================================================================
+B:AAC-BAR.ALKARAWI-M4# 
+----------------------------------------
+
+--- COMANDO: admin redundancy synchronize boot-env ---
+admin redundancy synchronize boot-env 
+Syncing Boot environment on standby CPM
+    boot option file : cf3:\bof.cfg ... OK
+    boot loader      : cf3:\boot.ldr ...   ...   ...   ...   ...   ... OK
+    nvsys file       : cf3:\nvsys.info ... OK
+    primary config   : cf3:\AAC-TUL.SAN_FERNANDO-M1.cfg ...   ... OK
+    primary config   : cf3:\AAC-TUL.SAN_FERNANDO-M1.ndx ... OK
+    primary image    : cf3:\images\TiMOS-C-12.0.R9\cpm.tim ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+    primary image    : cf3:\images\TiMOS-C-12.0.R9\iom.tim ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+    primary image    : cf3:\images\TiMOS-C-12.0.R9\isa-tms.tim ... OK
+    primary image    : cf3:\images\TiMOS-C-12.0.R9\isa-aa.tim ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+    primary image    : cf3:\images\TiMOS-C-12.0.R9\support.tim ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+    secondary image  : cf3:\images\TiMOS-C-9.0.R12\cpm.tim ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+    secondary image  : cf3:\images\TiMOS-C-9.0.R12\iom.tim ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+    secondary image  : cf3:\images\TiMOS-C-9.0.R12\isa-aa.tim ...   ...   ...   ... OK
+    Waiting for standby to read new BOF.CFG ... OK
+Completed.
+A:AAC-TUL.SAN_FERNANDO-M1# 
+----------------------------------------
+
+--- COMANDO: show redundancy synchronization ---
+show redundancy synchronization 
+
+===============================================================================
+Synchronization Information
+===============================================================================
+Standby Status               : standby ready
+Last Standby Failure         : N/A
+Standby Up Time              : 2024/12/18 13:57:39
+Standby Version              : TiMOS-C-12.0.R9 cpm/hops ALCATEL SR 7750
+                               Copyright (c) 2000-2015 Alcatel-Lucent.
+                               All rights reserved. All use subject to
+                               applicable license agreements.
+                               Built on Fri Mar 20 11:14:06 PDT 2015 by
+                               builder in /rel12.0/b1/R9/panos/main
+Failover Time                : N/A
+Failover Reason              : N/A
+Boot/Config Sync Mode        : Configuration
+Boot/Config Sync Status      : All boot environment synchronized
+Last Config File Sync Time   : 07/15/2025 14:14:51
+Last Boot Env Sync Time      : 07/15/2025 14:21:07
+Rollback Sync Mode           : None
+Rollback Sync Status         : No Rollback synchronization
+Last Rollback Sync Time      : Never
+Certificate Sync             : Enabled
+Cert Sync Status             : unknown
+Last Cert Sync Time          : Never
+===============================================================================
+A:AAC-TUL.SAN_FERNANDO-M1# 
+----------------------------------------
+
+--- COMANDO: admin redundancy synchronize boot-env ---
+admin redundancy synchronize boot-env 
+Syncing Boot environment on standby CPM
+    boot option file : cf3:\bof.cfg ... OK
+    boot loader      : cf3:\boot.ldr ...   ...   ...   ...   ...   ...   ... OK
+    nvsys file       : cf3:\nvsys.info ... OK
+    primary config   : cf3:\AAG-BOG.VENECIA-M4.cfg ...   ...   ...   ...   ...   ... OK
+    primary config   : cf3:\AAG-BOG.VENECIA-M4.ndx ... OK
+    rescue           : cf3:\ROLLRESCUE\rollrescue.rc ...   ... OK
+    rollback         : cf3:\rollback\rollback.rb ...   ... OK
+    primary image    : cf3:\images\TiMOS-C-12.0.R9\cpm.tim ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+    primary image    : cf3:\images\TiMOS-C-12.0.R9\iom.tim ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+    primary image    : cf3:\images\TiMOS-C-12.0.R9\isa-tms.tim ...   ... OK
+    primary image    : cf3:\images\TiMOS-C-12.0.R9\isa-aa.tim ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+    primary image    : cf3:\images\TiMOS-C-12.0.R9\support.tim ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+    secondary image  : cf3:\images\TiMOS-C-9.0.R12\cpm.tim ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+    secondary image  : cf3:\images\TiMOS-C-9.0.R12\iom.tim ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+    secondary image  : cf3:\images\TiMOS-C-9.0.R12\isa-tms.tim ... OK
+    secondary image  : cf3:\images\TiMOS-C-9.0.R12\isa-aa.tim ...   ...   ...   ... OK
+    Waiting for standby to read new BOF.CFG ... OK
+Completed.
+*A:AAG-BOG.VENECIA-M4# 
+----------------------------------------
+
+--- COMANDO: show redundancy synchronization ---
+show redundancy synchronization 
+
+===============================================================================
+Synchronization Information
+===============================================================================
+Standby Status               : standby ready
+Last Standby Failure         : N/A
+Standby Up Time              : 2016/09/04 01:02:39
+Standby Version              : TiMOS-C-12.0.R9 cpm/hops ALCATEL SR 7750
+                               Copyright (c) 2000-2015 Alcatel-Lucent.
+                               All rights reserved. All use subject to
+                               applicable license agreements.
+                               Built on Fri Mar 20 11:14:06 PDT 2015 by
+                               builder in /rel12.0/b1/R9/panos/main
+Failover Time                : N/A
+Failover Reason              : N/A
+Boot/Config Sync Mode        : Configuration
+Boot/Config Sync Status      : All boot environment synchronized
+Last Config File Sync Time   : 07/15/2025 14:12:33
+Last Boot Env Sync Time      : 07/15/2025 14:21:57
+Rollback Sync Mode           : None
+Rollback Sync Status         : Rollback sync successful
+Last Rollback Sync Time      : 08/26/2024 22:30:45
+Certificate Sync             : Enabled
+Cert Sync Status             : unknown
+Last Cert Sync Time          : Never
+===============================================================================
+*A:AAG-BOG.VENECIA-M4# 
+----------------------------------------
+
+--- COMANDO: admin redundancy synchronize boot-env ---
+admin redundancy synchronize boot-env 
+Syncing Boot environment on standby CPM
+    boot option file : cf3:\bof.cfg ...   ... OK
+    boot loader      : cf3:\boot.ldr ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+    nvsys file       : cf3:\nvsys.info ... OK
+    primary config   : cf3:\AAG-MASTER-C1.cfg ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+    primary config   : cf3:\AAG-MASTER-C1.ndx ... OK
+    rescue           : cf3:\ROLLRESCUE\rollrescue.rc ...   ...   ...   ... OK
+    primary image    : cf3:\images\TiMOS-C-12.0.R9\cpm.tim ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+    primary image    : cf3:\images\TiMOS-C-12.0.R9\iom.tim ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+    primary image    : cf3:\images\TiMOS-C-12.0.R9\isa-aa.tim ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+    primary image    : cf3:\images\TiMOS-C-12.0.R9\support.tim ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+    secondary image  : cf3:\images\TiMOS-C-9.0.R12\cpm.tim ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+    secondary image  : cf3:\images\TiMOS-C-9.0.R12\iom.tim ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+    secondary image  : cf3:\images\TiMOS-C-9.0.R12\isa-aa.tim ...   ...   ...   ...   ... OK
+    Waiting for standby to read new BOF.CFG ... OK
+Completed.
+B:AAG-MASTER-C1# 
+----------------------------------------
+
+--- COMANDO: show redundancy synchronization ---
+show redundancy synchronization 
+
+===============================================================================
+Synchronization Information
+===============================================================================
+Standby Status               : standby ready
+Last Standby Failure         : N/A
+Standby Up Time              : 2022/02/18 09:55:43
+Standby Version              : TiMOS-C-12.0.R9 cpm/hops ALCATEL ESS 7450
+                               Copyright (c) 2000-2015 Alcatel-Lucent.
+                               All rights reserved. All use subject to
+                               applicable license agreements.
+                               Built on Fri Mar 20 11:14:06 PDT 2015 by
+                               builder in /rel12.0/b1/R9/panos/main
+Failover Time                : 11/08/2024 14:49:23
+Failover Reason              : active CPM sync lost
+Boot/Config Sync Mode        : Configuration
+Boot/Config Sync Status      : All boot environment synchronized
+Last Config File Sync Time   : 07/15/2025 14:13:47
+Last Boot Env Sync Time      : 07/15/2025 14:24:08
+Rollback Sync Mode           : None
+Rollback Sync Status         : Rollback sync successful
+Last Rollback Sync Time      : 01/30/2025 12:07:10
+Certificate Sync             : Enabled
+Cert Sync Status             : unknown
+Last Cert Sync Time          : Never
+===============================================================================
+B:AAG-MASTER-C1# 
+----------------------------------------
+
+--- COMANDO: admin redundancy synchronize boot-env ---
+admin redundancy synchronize boot-env 
+Syncing boot environment:
+    boot option file : cf3:\bof.cfg ...   ... OK
+    boot loader      : cf3:\boot.ldr ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+    nvsys file       : cf3:\nvsys.info ... OK
+    primary config   : cf3:\AAC-BAR.CUMBRE-M2.cfg ...   ...   ...   ...   ...   ... OK
+    primary config   : cf3:\AAC-BAR.CUMBRE-M2.ndx ...   ... OK
+    primary image    : cf3:\images\TiMOS-B-6.2.R2\both.tim ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ... OK
+      Waiting for standby to read new BOF.CFG ... OK
+Completed.
+A:AAC-BAR.CUMBRE-M2# 
+----------------------------------------
+
+--- COMANDO: show redundancy synchronization ---
+show redundancy synchronization 
+
+===============================================================================
+Synchronization Information
+===============================================================================
+Standby Status               : standby ready
+Last Standby Failure         : N/A
+Standby Up Time              : 2025/02/24 06:07:58
+Standby Version              : TiMOS-B-6.2.R2 both/hops ALCATEL-LUCENT SAR
+                               7705
+                               Copyright (c) 2000-2015 Alcatel-Lucent.
+                               All rights reserved. All use subject to
+                               applicable license agreements.
+                               Built on Thu Apr 30 11:43:44 EDT 2015 by
+                               csabuild in /rel6.2/b1/R2/panos/main  
+Failover Time                : N/A
+Failover Reason              : N/A
+Boot/Config Sync Mode        : Configuration
+Boot/Config Sync Status      : All boot environment synchronized
+Last Config File Sync Time   : 07/15/2025 14:24:35
+Last Boot Env Sync Time      : 07/15/2025 14:24:35
+===============================================================================
+A:AAC-BAR.CUMBRE-M2# 
+----------------------------------------
+

@@ -1,0 +1,150 @@
+==== AAC-BOG.ARANDA-M5 (10.50.1.179) ====
+show card
+-bash: show: command not found
+TFM0666_Hendrix:/home/EC6864Y> 
+
+==== AAG-BOG.VENECIA-M4 (10.50.64.32) ====
+show card
+-bash: show: command not found
+TFM0666_Hendrix:/home/EC6864Y> 
+
+==== AAC-CHO.RIO_IRO-M1 (10.50.71.62) ====
+show card
+-bash: show: command not found
+TFM0666_Hendrix:/home/EC6864Y> 
+
+==== AAG-MED.OCCEL-M3 (10.50.66.240) ====
+show card
+-bash: show: command not found
+TFM0666_Hendrix:/home/EC6864Y> 
+
+==== VCO-TER-CN01 (10.50.1.79) ====
+show card
+-bash: show: command not found
+TFM0666_Hendrix:/home/EC6864Y> 
+
+==== AAG-BOG.VERBENAL-M3 (10.50.77.58) ====
+show card
+-bash: show: command not found
+TFM0666_Hendrix:/home/EC6864Y> 
+
+==== AAC-ANT.SANTO_DOMINGO-M1 (10.50.66.111) ====
+show card
+-bash: show: command not found
+TFM0666_Hendrix:/home/EC6864Y> 
+
+==== AAC-CUN.SIBERIA-M2 (10.53.109.80) ====
+show card
+-bash: show: command not found
+TFM0666_Hendrix:/home/EC6864Y> 
+
+==== IBA-PIC-CN01 (10.50.1.75) ====
+show card
+-bash: show: command not found
+TFM0666_Hendrix:/home/EC6864Y> 
+
+==== AAC-BOG.CENTRO-C3 (10.50.1.255) ====
+show card
+-bash: show: command not found
+TFM0666_Hendrix:/home/EC6864Y> 
+
+==== AAG-BOG.VILLA_GLADYS-M1 (10.50.1.35) ====
+show card
+-bash: show: command not found
+TFM0666_Hendrix:/home/EC6864Y> 
+
+==== AAG-BOG.TOBERIN-H3 (10.50.1.215) ====
+show card
+-bash: show: command not found
+TFM0666_Hendrix:/home/EC6864Y> 
+
+==== CAL-DEC-AN01 (10.50.0.178) ====
+show card
+-bash: show: command not found
+TFM0666_Hendrix:/home/EC6864Y> 
+
+==== BUC-BBO-SN01 (10.50.2.66) ====
+show card
+-bash: show: command not found
+TFM0666_Hendrix:/home/EC6864Y> 
+
+==== BUC-VEF-AN02 (10.50.2.70) ====
+show card
+-bash: show: command not found
+TFM0666_Hendrix:/home/EC6864Y> 
+
+==== BAR-CUM-SN01 (10.50.2.4) ====
+show card
+-bash: show: command not found
+TFM0666_Hendrix:/home/EC6864Y> 
+
+==== AAG-MASTER-C1 (10.50.1.105) ====
+show card
+-bash: show: command not found
+TFM0666_Hendrix:/home/EC6864Y> 
+
+==== AAG-CENTRO-C1 (10.50.1.100) ====
+show card
+-bash: show: command not found
+TFM0666_Hendrix:/home/EC6864Y> 
+
+==== AAG-TRIARA-C1 (10.50.1.103) ====
+show card
+-bash: show: command not found
+TFM0666_Hendrix:/home/EC6864Y> 
+
+==== PER-CCM-SN01 (10.50.2.194) ====
+show card
+-bash: show: command not found
+TFM0666_Hendrix:/home/EC6864Y> 
+
+==== AAG-DORADO-C1 (10.50.1.106) ====
+show card
+-bash: show: command not found
+TFM0666_Hendrix:/home/EC6864Y> 
+
+==== AAG-ORTEZAL-C1 (10.50.1.107) ====
+show card
+-bash: show: command not found
+TFM0666_Hendrix:/home/EC6864Y> 
+
+==== AAC-TUL.SAN_FERNANDO-M1 (10.50.90.69) ====
+show card
+-bash: show: command not found
+TFM0666_Hendrix:/home/EC6864Y> 
+
+==== AAG-ARM.TERMINAL-M1 (10.50.84.34) ====
+show card
+-bash: show: command not found
+TFM0666_Hendrix:/home/EC6864Y> 
+
+==== AAG-BUC.FLORIDABLANCA-M1 (10.50.87.3) ====
+show card
+-bash: show: command not found
+TFM0666_Hendrix:/home/EC6864Y> 
+
+==== AAG-CAR.JUANITA-M1 (10.50.69.8) ====
+show card
+-bash: show: command not found
+TFM0666_Hendrix:/home/EC6864Y> 
+
+==== AAC-BAR.ALKARAWI-M4 (10.53.100.200) ====
+show card
+-bash: show: command not found
+TFM0666_Hendrix:/home/EC6864Y> 
+
+==== AAG-BAR.POLICIA_NACIONAL-M1 (10.50.68.28) ====
+show card
+-bash: show: command not found
+TFM0666_Hendrix:/home/EC6864Y> 
+
+==== AAC-CAL.ACOPI-M3 (10.53.122.241) ====
+show card
+-bash: show: command not found
+TFM0666_Hendrix:/home/EC6864Y> 
+
+==== AAC-BAR.CUMBRE-M2 (10.53.100.201) ====
+show card
+-bash: show: command not found
+TFM0666_Hendrix:/home/EC6864Y> 
+

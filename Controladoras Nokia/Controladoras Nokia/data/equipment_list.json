@@ -1,0 +1,24 @@
+{
+    "LOW RAN": [
+      {"ip": "10.1.1.1", "name": "AAC-BERRIO-C1", "location": "Berrio Site 1"},
+      {"ip": "10.1.1.2", "name": "AAC-BERRIO-C2", "location": "Berrio Site 2"},
+      {"ip": "10.1.1.3", "name": "AAC-BERRIO-C3", "location": "Berrio Site 3"},
+      {"ip": "10.1.1.4", "name": "AAC-BERRIO-C4", "location": "Berrio Site 4"},
+      {"ip": "10.1.1.5", "name": "AAC-BERRIO-C5", "location": "Berrio Site 5"}
+    ],
+    "MIDDLE RAN": [
+      {"ip": "10.2.1.1", "name": "NOK-MID-001", "location": "Regional Node 1"},
+      {"ip": "10.2.1.2", "name": "NOK-MID-002", "location": "Regional Node 2"},
+      {"ip": "10.2.1.3", "name": "NOK-MID-003", "location": "Regional Node 3"},
+      {"ip": "10.2.1.4", "name": "NOK-MID-004", "location": "Regional Node 4"},
+      {"ip": "10.2.1.5", "name": "NOK-MID-005", "location": "Regional Node 5"}
+    ],
+    "HIGH RAN": [
+      {"ip": "10.3.1.1", "name": "NOK-CORE-001", "location": "Core Network 1"},
+      {"ip": "10.3.1.2", "name": "NOK-CORE-002", "location": "Core Network 2"},
+      {"ip": "10.3.1.3", "name": "NOK-CORE-003", "location": "Core Network 3"},
+      {"ip": "10.3.1.4", "name": "NOK-CORE-004", "location": "Core Network 4"},
+      {"ip": "10.3.1.5", "name": "NOK-CORE-005", "location": "Core Network 5"}
+    ]
+  }
+  
